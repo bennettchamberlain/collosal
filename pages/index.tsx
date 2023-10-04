@@ -14,7 +14,7 @@ import { FiFigma, FiCode, FiBox } from 'react-icons/fi'
 const Home = () => {
   return (
     <>
-      <PageTemplate title="Home - Collosal">
+      <PageTemplate title="Home - Arbiter">
         {/* Banner Section */}
         <section
           className="flex flex-col gap-10 items-center"
@@ -24,7 +24,7 @@ const Home = () => {
             <PageSentence
               title="We Design. We Develop. We Ship. In The Same Day."
               description="We are committed to not making clients wait. We will deliver the work as quickly as possible. Even on the same day. Even so, we do not reduce the quality of our work."
-              badge="CLIENT-DEVELOPMENT-DRIVEN"
+              badge="Relationship Oriented - Results Driven"
             />
           </div>
           <div className="flex flex-col gap-6 sm:flex-row w-full sm:w-fit">
