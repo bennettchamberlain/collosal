@@ -18,6 +18,12 @@ const Footer = () => {
               <Text
                 value={`Design By Collosal LLC`}
                 textStyle="SectionParagraph"
+              <Text
+                value={phone : +1 914-319-3250`}
+                textStyle="SectionParagraph"
+                <Text
+                value={`e-mail : bennett.chamberlain@iniquin.com`}
+                textStyle="SectionParagraph"  
               />
             </div>
           </div>

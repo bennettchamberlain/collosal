@@ -22,13 +22,13 @@ const Home = () => {
         >
           <div className="w-10/12 md:w-8/12 text-center">
             <PageSentence
-              title="We Design. We Develop. We Ship. In The Same Day."
-              description="We are committed to not making clients wait. We will deliver the work as quickly as possible. Even on the same day. Even so, we do not reduce the quality of our work."
+              title="we design. web build. we deliver. in the same day."
+              description="We are committed to give you the solution fast. We will deliver the work as quickly as possible. Even on the same day. Even so, wont reduce the quality of our work."
               badge="Relationship Oriented - Results Driven"
             />
           </div>
           <div className="flex flex-col gap-6 sm:flex-row w-full sm:w-fit">
-            <ButtonLink value="Send Quote" href="/quote" />
+            <ButtonLink value="Work Together" href="/quote" />
             <ButtonLink
               value="Learn More"
               color="white"
@@ -42,20 +42,20 @@ const Home = () => {
           <div data-aos="fade-up">
             <FeatureCard
               title="Design"
-              description="The project interface will be designed first, our favorite tool is Figma."
+              description="The project interface needs to be designed first, We use Figma for this."
               icon={<FiFigma />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
               title="Develop"
-              description="Transform design and write business logic here. Choose the technology you want."
+              description="Transform design and write business logic here. You can choose the technology you want."
               icon={<FiCode />}
             />
           </div>
           <div data-aos="fade-up">
             <FeatureCard
-              title="Ship"
+              title="deliver"
               description="After the work is complete, we will send the project and all its assets to you."
               icon={<FiBox />}
             />
@@ -78,8 +78,8 @@ const Home = () => {
             data-aos="fade-left"
           >
             <SectionSentence
-              title="Everything is well planned, well designed and developed wholeheartedly"
-              paragraph="Careful planning makes us confident, developed with best practices so that the project can be maintained. We always test projects before they are shipped."
+              title="Everything is planned, well designed and developed by experts"
+              paragraph="Careful planning makes us confident, developed with best practices so that the project can be maintained. We always review projects before they are delivered."
               badge="HOW WE WORK"
             />
           </aside>
@@ -90,7 +90,7 @@ const Home = () => {
             <div className="space-y-12" data-aos="fade-right">
               <SectionSentence
                 title="We're a team of designers, engineers and analysts"
-                paragraph="Our team consists of many creative people. We are committed to maintaining quality work as well as speed. These creative people work together to create maximum work results."
+                paragraph="Our team consists of many creative and expert people. We are committed to maintaining quality work as well as speed. These people work together to create maximum work results."
                 badge="OUR TEAM"
               />
               <ButtonLink
@@ -122,21 +122,21 @@ const Home = () => {
             data-aos="zoom-in-up"
           >
             <SectionSentence
-              title="We have completed many amazing projects that you will not believe"
+              title="We have completed many amazing projects that made the clients results."
               badge="PROJECTS"
             />
           </div>
           <div className="w-full grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-5">
             <div data-aos="flip-left">
               <ProjectCard
-                title="The Desktop App Landing Page"
-                description="A landing page for desktop app"
+                title="Ticketting system"
+                description="A database that handles ticketting system for MR.Brainwash it has done 10k tickets till date, using the flutter web app and noSQL database."
               />
             </div>
             <div data-aos="flip-right">
               <ProjectCard
-                title="The Mobile App Landing Page"
-                description="A landing page for mobile app"
+                title="Westerm Belting Innovations"
+                description="A Website for this company to showcase their products and services, we also did SEO work for them, connected with analitycs and other stuff to take complete controll over there viewership"
                 bottomSquareSize="big"
               />
             </div>
@@ -149,7 +149,7 @@ const Home = () => {
             data-aos="zoom-in-up"
           >
             <SectionSentence
-              title="What do you need? Choose a service that can help you"
+              title="We charge a fair price for our work. We will give you the best results for the price you pay."
               badge="GET STARTED"
             />
           </div>

@@ -14,12 +14,12 @@ const Project = () => {
   }
   const projectList: Project[] = [
     {
-      title: 'The Mobile App Landing Page',
-      description: 'A landing page for mobile app',
+      title: 'Ticketting system',
+      description: 'A database that handles ticketting system for MR.Brainwash it has done 10k tickets till date, using the flutter web app and noSQL database',
     },
     {
-      title: 'The Desktop App Landing Page',
-      description: 'A landing page for desktop app',
+      title: 'Westerm Belting Innovations',
+      description: 'A Website for this company to showcase their products and services, we also did SEO work for them, connected with analitycs and other stuff to take complete controll over there viewership',
     },
     {
       title: 'Simple Mobile Blog App',
